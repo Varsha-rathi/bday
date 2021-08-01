@@ -1,0 +1,34 @@
+body{
+	background-image: url('../img/back.gif');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.card-wrapper {
+  display: flex;
+  /*grid-template-columns: 33% 33% 33%;
+  grid-gap: 1px;*/
+  /*background-color: #fff;*/
+  /*color: #444;*/
+  margin-left: 2%;
+    margin-right: 2%;
+    padding: 20px;
+}
+
+.cards {
+  /*background-color: #444;
+  color: #fff;*/
+  /*border-radius: 5px;
+  padding: 10px;*/
+}
+.cards img {
+	width : 100%;
+	height: 60%;
+}
+#wrapper2 {
+	margin-top: -11%;		
+}
+#wrapper2 img{
+	width : 80% !important;
+	height: 80% !important;
+}
